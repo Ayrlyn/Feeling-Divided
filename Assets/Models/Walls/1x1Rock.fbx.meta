@@ -1,0 +1,306 @@
+fileFormatVersion: 2
+guid: 54993a0a3fb1d5b4f96dac3544b8dd62
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1x1 Rock
+    100002: 1x1 Rock|Leaf|Dupli|
+    100004: 1x1 Rock|Leaf|Dupli|1
+    100006: 1x1 Rock|Leaf|Dupli|2
+    100008: 1x1 Rock|Leaf|Dupli|3
+    100010: 1x1 Rock|Leaf|Dupli|4
+    100012: 1x1 Rock|Leaf|Dupli|5
+    100014: 1x1 Rock|Leaf|Dupli|6
+    100016: //RootNode
+    100018: 3x1 Wall
+    100020: Leaf
+    100022: 1x1 Rock|Leaf|Dupli|10
+    100024: 1x1 Rock|Leaf|Dupli|11
+    100026: 1x1 Rock|Leaf|Dupli|12
+    100028: 1x1 Rock|Leaf|Dupli|7
+    100030: 1x1 Rock|Leaf|Dupli|8
+    100032: 1x1 Rock|Leaf|Dupli|9
+    100034: 1x1 Rock|Leaf|Dupli|13
+    100036: 1x1 Rock|Leaf|Dupli|14
+    100038: 1x1 Rock|Leaf|Dupli|15
+    100040: 1x1 Rock|Leaf|Dupli|16
+    100042: 1x1 Rock|Leaf|Dupli|17
+    100044: 1x1 Rock|Leaf|Dupli|18
+    100046: 1x1 Rock|Leaf|Dupli|19
+    100048: 1x1 Rock|Leaf|Dupli|20
+    100050: 1x1 Rock|Leaf|Dupli|21
+    100052: 1x1 Rock|Leaf|Dupli|22
+    100054: 1x1 Rock|Leaf|Dupli|23
+    100056: 1x1 Rock|Leaf|Dupli|24
+    100058: 1x1 Rock|Leaf|Dupli|25
+    100060: 1x1 Rock|Leaf|Dupli|26
+    100062: 1x1 Rock|Leaf|Dupli|27
+    100064: 1x1 Rock|Leaf|Dupli|28
+    100066: 1x1 Rock|Leaf|Dupli|29
+    100068: 1x1 Rock|Leaf|Dupli|30
+    100070: 1x1 Rock|Leaf|Dupli|31
+    100072: 1x1 Rock|Leaf|Dupli|32
+    100074: 1x1 Rock|Leaf|Dupli|33
+    100076: 1x1 Rock|Leaf|Dupli|34
+    100078: 1x1 Rock|Leaf|Dupli|35
+    100080: 1x1 Rock|Leaf|Dupli|36
+    100082: 1x1 Rock|Leaf|Dupli|37
+    100084: 1x1 Rock|Leaf|Dupli|38
+    100086: 1x1 Rock|Leaf|Dupli|39
+    100088: 1x1 Rock|Leaf|Dupli|40
+    100090: 1x1 Rock|Leaf|Dupli|41
+    100092: 1x1 Rock|Leaf|Dupli|42
+    100094: 1x1 Rock|Leaf|Dupli|43
+    100096: 1x1 Rock|Flower|Dupli|0.1
+    100098: 1x1 Rock|Flower|Dupli|1.1
+    100100: 1x1 Rock|Flower|Dupli|2.1
+    100102: 1x1 Rock|Flower|Dupli|3.1
+    100104: 1x1 Rock|Flower|Dupli|4.1
+    400000: 1x1 Rock
+    400002: 1x1 Rock|Leaf|Dupli|
+    400004: 1x1 Rock|Leaf|Dupli|1
+    400006: 1x1 Rock|Leaf|Dupli|2
+    400008: 1x1 Rock|Leaf|Dupli|3
+    400010: 1x1 Rock|Leaf|Dupli|4
+    400012: 1x1 Rock|Leaf|Dupli|5
+    400014: 1x1 Rock|Leaf|Dupli|6
+    400016: //RootNode
+    400018: 3x1 Wall
+    400020: Leaf
+    400022: 1x1 Rock|Leaf|Dupli|10
+    400024: 1x1 Rock|Leaf|Dupli|11
+    400026: 1x1 Rock|Leaf|Dupli|12
+    400028: 1x1 Rock|Leaf|Dupli|7
+    400030: 1x1 Rock|Leaf|Dupli|8
+    400032: 1x1 Rock|Leaf|Dupli|9
+    400034: 1x1 Rock|Leaf|Dupli|13
+    400036: 1x1 Rock|Leaf|Dupli|14
+    400038: 1x1 Rock|Leaf|Dupli|15
+    400040: 1x1 Rock|Leaf|Dupli|16
+    400042: 1x1 Rock|Leaf|Dupli|17
+    400044: 1x1 Rock|Leaf|Dupli|18
+    400046: 1x1 Rock|Leaf|Dupli|19
+    400048: 1x1 Rock|Leaf|Dupli|20
+    400050: 1x1 Rock|Leaf|Dupli|21
+    400052: 1x1 Rock|Leaf|Dupli|22
+    400054: 1x1 Rock|Leaf|Dupli|23
+    400056: 1x1 Rock|Leaf|Dupli|24
+    400058: 1x1 Rock|Leaf|Dupli|25
+    400060: 1x1 Rock|Leaf|Dupli|26
+    400062: 1x1 Rock|Leaf|Dupli|27
+    400064: 1x1 Rock|Leaf|Dupli|28
+    400066: 1x1 Rock|Leaf|Dupli|29
+    400068: 1x1 Rock|Leaf|Dupli|30
+    400070: 1x1 Rock|Leaf|Dupli|31
+    400072: 1x1 Rock|Leaf|Dupli|32
+    400074: 1x1 Rock|Leaf|Dupli|33
+    400076: 1x1 Rock|Leaf|Dupli|34
+    400078: 1x1 Rock|Leaf|Dupli|35
+    400080: 1x1 Rock|Leaf|Dupli|36
+    400082: 1x1 Rock|Leaf|Dupli|37
+    400084: 1x1 Rock|Leaf|Dupli|38
+    400086: 1x1 Rock|Leaf|Dupli|39
+    400088: 1x1 Rock|Leaf|Dupli|40
+    400090: 1x1 Rock|Leaf|Dupli|41
+    400092: 1x1 Rock|Leaf|Dupli|42
+    400094: 1x1 Rock|Leaf|Dupli|43
+    400096: 1x1 Rock|Flower|Dupli|0.1
+    400098: 1x1 Rock|Flower|Dupli|1.1
+    400100: 1x1 Rock|Flower|Dupli|2.1
+    400102: 1x1 Rock|Flower|Dupli|3.1
+    400104: 1x1 Rock|Flower|Dupli|4.1
+    2100000: Stone
+    2100002: Leaf
+    2100004: Sandstone
+    2100006: Leaf.001
+    2100008: Flower
+    2300000: 1x1 Rock
+    2300002: 1x1 Rock|Leaf|Dupli|
+    2300004: 1x1 Rock|Leaf|Dupli|1
+    2300006: 1x1 Rock|Leaf|Dupli|2
+    2300008: 1x1 Rock|Leaf|Dupli|3
+    2300010: 1x1 Rock|Leaf|Dupli|4
+    2300012: 1x1 Rock|Leaf|Dupli|5
+    2300014: 1x1 Rock|Leaf|Dupli|6
+    2300016: 3x1 Wall
+    2300018: Leaf
+    2300020: //RootNode
+    2300022: 1x1 Rock|Leaf|Dupli|10
+    2300024: 1x1 Rock|Leaf|Dupli|11
+    2300026: 1x1 Rock|Leaf|Dupli|12
+    2300028: 1x1 Rock|Leaf|Dupli|7
+    2300030: 1x1 Rock|Leaf|Dupli|8
+    2300032: 1x1 Rock|Leaf|Dupli|9
+    2300034: 1x1 Rock|Leaf|Dupli|13
+    2300036: 1x1 Rock|Leaf|Dupli|14
+    2300038: 1x1 Rock|Leaf|Dupli|15
+    2300040: 1x1 Rock|Leaf|Dupli|16
+    2300042: 1x1 Rock|Leaf|Dupli|17
+    2300044: 1x1 Rock|Leaf|Dupli|18
+    2300046: 1x1 Rock|Leaf|Dupli|19
+    2300048: 1x1 Rock|Leaf|Dupli|20
+    2300050: 1x1 Rock|Leaf|Dupli|21
+    2300052: 1x1 Rock|Leaf|Dupli|22
+    2300054: 1x1 Rock|Leaf|Dupli|23
+    2300056: 1x1 Rock|Leaf|Dupli|24
+    2300058: 1x1 Rock|Leaf|Dupli|25
+    2300060: 1x1 Rock|Leaf|Dupli|26
+    2300062: 1x1 Rock|Leaf|Dupli|27
+    2300064: 1x1 Rock|Leaf|Dupli|28
+    2300066: 1x1 Rock|Leaf|Dupli|29
+    2300068: 1x1 Rock|Leaf|Dupli|30
+    2300070: 1x1 Rock|Leaf|Dupli|31
+    2300072: 1x1 Rock|Leaf|Dupli|32
+    2300074: 1x1 Rock|Leaf|Dupli|33
+    2300076: 1x1 Rock|Leaf|Dupli|34
+    2300078: 1x1 Rock|Leaf|Dupli|35
+    2300080: 1x1 Rock|Leaf|Dupli|36
+    2300082: 1x1 Rock|Leaf|Dupli|37
+    2300084: 1x1 Rock|Leaf|Dupli|38
+    2300086: 1x1 Rock|Leaf|Dupli|39
+    2300088: 1x1 Rock|Leaf|Dupli|40
+    2300090: 1x1 Rock|Leaf|Dupli|41
+    2300092: 1x1 Rock|Leaf|Dupli|42
+    2300094: 1x1 Rock|Leaf|Dupli|43
+    2300096: 1x1 Rock|Flower|Dupli|0.1
+    2300098: 1x1 Rock|Flower|Dupli|1.1
+    2300100: 1x1 Rock|Flower|Dupli|2.1
+    2300102: 1x1 Rock|Flower|Dupli|3.1
+    2300104: 1x1 Rock|Flower|Dupli|4.1
+    3300000: 1x1 Rock
+    3300002: 1x1 Rock|Leaf|Dupli|
+    3300004: 1x1 Rock|Leaf|Dupli|1
+    3300006: 1x1 Rock|Leaf|Dupli|2
+    3300008: 1x1 Rock|Leaf|Dupli|3
+    3300010: 1x1 Rock|Leaf|Dupli|4
+    3300012: 1x1 Rock|Leaf|Dupli|5
+    3300014: 1x1 Rock|Leaf|Dupli|6
+    3300016: 3x1 Wall
+    3300018: Leaf
+    3300020: //RootNode
+    3300022: 1x1 Rock|Leaf|Dupli|10
+    3300024: 1x1 Rock|Leaf|Dupli|11
+    3300026: 1x1 Rock|Leaf|Dupli|12
+    3300028: 1x1 Rock|Leaf|Dupli|7
+    3300030: 1x1 Rock|Leaf|Dupli|8
+    3300032: 1x1 Rock|Leaf|Dupli|9
+    3300034: 1x1 Rock|Leaf|Dupli|13
+    3300036: 1x1 Rock|Leaf|Dupli|14
+    3300038: 1x1 Rock|Leaf|Dupli|15
+    3300040: 1x1 Rock|Leaf|Dupli|16
+    3300042: 1x1 Rock|Leaf|Dupli|17
+    3300044: 1x1 Rock|Leaf|Dupli|18
+    3300046: 1x1 Rock|Leaf|Dupli|19
+    3300048: 1x1 Rock|Leaf|Dupli|20
+    3300050: 1x1 Rock|Leaf|Dupli|21
+    3300052: 1x1 Rock|Leaf|Dupli|22
+    3300054: 1x1 Rock|Leaf|Dupli|23
+    3300056: 1x1 Rock|Leaf|Dupli|24
+    3300058: 1x1 Rock|Leaf|Dupli|25
+    3300060: 1x1 Rock|Leaf|Dupli|26
+    3300062: 1x1 Rock|Leaf|Dupli|27
+    3300064: 1x1 Rock|Leaf|Dupli|28
+    3300066: 1x1 Rock|Leaf|Dupli|29
+    3300068: 1x1 Rock|Leaf|Dupli|30
+    3300070: 1x1 Rock|Leaf|Dupli|31
+    3300072: 1x1 Rock|Leaf|Dupli|32
+    3300074: 1x1 Rock|Leaf|Dupli|33
+    3300076: 1x1 Rock|Leaf|Dupli|34
+    3300078: 1x1 Rock|Leaf|Dupli|35
+    3300080: 1x1 Rock|Leaf|Dupli|36
+    3300082: 1x1 Rock|Leaf|Dupli|37
+    3300084: 1x1 Rock|Leaf|Dupli|38
+    3300086: 1x1 Rock|Leaf|Dupli|39
+    3300088: 1x1 Rock|Leaf|Dupli|40
+    3300090: 1x1 Rock|Leaf|Dupli|41
+    3300092: 1x1 Rock|Leaf|Dupli|42
+    3300094: 1x1 Rock|Leaf|Dupli|43
+    3300096: 1x1 Rock|Flower|Dupli|0.1
+    3300098: 1x1 Rock|Flower|Dupli|1.1
+    3300100: 1x1 Rock|Flower|Dupli|2.1
+    3300102: 1x1 Rock|Flower|Dupli|3.1
+    3300104: 1x1 Rock|Flower|Dupli|4.1
+    4300000: 1x1 Rock
+    4300002: 1x1 Rock|Leaf|Dupli|
+    4300004: 3x1 Wall
+    4300006: 1x1 Rock|Flower|Dupli|0.1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

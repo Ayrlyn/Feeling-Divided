@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: 51ebba78540a93442ad9d9a0a72e6fe1
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 3x1 Wall|Leaf|Dupli|
+    100004: 3x1 Wall|Leaf|Dupli|1
+    100006: 3x1 Wall|Leaf|Dupli|10
+    100008: 3x1 Wall|Leaf|Dupli|11
+    100010: 3x1 Wall|Leaf|Dupli|12
+    100012: 3x1 Wall|Leaf|Dupli|13
+    100014: 3x1 Wall|Leaf|Dupli|14
+    100016: 3x1 Wall|Leaf|Dupli|15
+    100018: 3x1 Wall|Leaf|Dupli|16
+    100020: 3x1 Wall|Leaf|Dupli|17
+    100022: 3x1 Wall|Leaf|Dupli|18
+    100024: 3x1 Wall|Leaf|Dupli|19
+    100026: 3x1 Wall|Leaf|Dupli|2
+    100028: 3x1 Wall|Leaf|Dupli|20
+    100030: 3x1 Wall|Leaf|Dupli|21
+    100032: 3x1 Wall|Leaf|Dupli|22
+    100034: 3x1 Wall|Leaf|Dupli|23
+    100036: 3x1 Wall|Leaf|Dupli|24
+    100038: 3x1 Wall|Leaf|Dupli|25
+    100040: 3x1 Wall|Leaf|Dupli|26
+    100042: 3x1 Wall|Leaf|Dupli|27
+    100044: 3x1 Wall|Leaf|Dupli|28
+    100046: 3x1 Wall|Leaf|Dupli|29
+    100048: 3x1 Wall|Leaf|Dupli|3
+    100050: 3x1 Wall|Leaf|Dupli|30
+    100052: 3x1 Wall|Leaf|Dupli|31
+    100054: 3x1 Wall|Leaf|Dupli|32
+    100056: 3x1 Wall|Leaf|Dupli|33
+    100058: 3x1 Wall|Leaf|Dupli|34
+    100060: 3x1 Wall|Leaf|Dupli|35
+    100062: 3x1 Wall|Leaf|Dupli|36
+    100064: 3x1 Wall|Leaf|Dupli|37
+    100066: 3x1 Wall|Leaf|Dupli|38
+    100068: 3x1 Wall|Leaf|Dupli|39
+    100070: 3x1 Wall|Leaf|Dupli|4
+    100072: 3x1 Wall|Leaf|Dupli|40
+    100074: 3x1 Wall|Leaf|Dupli|41
+    100076: 3x1 Wall|Leaf|Dupli|42
+    100078: 3x1 Wall|Leaf|Dupli|43
+    100080: 3x1 Wall|Leaf|Dupli|44
+    100082: 3x1 Wall|Leaf|Dupli|45
+    100084: 3x1 Wall|Leaf|Dupli|46
+    100086: 3x1 Wall|Leaf|Dupli|47
+    100088: 3x1 Wall|Leaf|Dupli|48
+    100090: 3x1 Wall|Leaf|Dupli|49
+    100092: 3x1 Wall|Leaf|Dupli|5
+    100094: 3x1 Wall|Leaf|Dupli|6
+    100096: 3x1 Wall|Leaf|Dupli|7
+    100098: 3x1 Wall|Leaf|Dupli|8
+    100100: 3x1 Wall|Leaf|Dupli|9
+    100102: 3x1 Wall|Leaf|Dupli|50
+    100104: 3x1 Wall|Leaf|Dupli|51
+    100106: 3x1 Wall|Leaf|Dupli|52
+    100108: 3x1 Wall|Leaf|Dupli|53
+    100110: 3x1 Wall|Leaf|Dupli|54
+    100112: 3x1 Wall|Leaf|Dupli|55
+    100114: 3x1 Wall|Leaf|Dupli|56
+    100116: 3x1 Wall|Leaf|Dupli|57
+    100118: 3x1 Wall|Leaf|Dupli|58
+    100120: 3x1 Wall|Leaf|Dupli|59
+    100122: 3x1 Wall|Leaf|Dupli|60
+    100124: 3x1 Wall|Leaf|Dupli|61
+    100126: 3x1 Wall|Leaf|Dupli|62
+    100128: 3x1 Wall|Leaf|Dupli|63
+    100130: 3x1 Wall|Leaf|Dupli|64
+    100132: 3x1 Wall|Leaf|Dupli|65
+    100134: 3x1 Wall|Leaf|Dupli|66
+    100136: 3x1 Wall|Leaf|Dupli|67
+    100138: 3x1 Wall|Leaf|Dupli|68
+    100140: 3x1 Wall|Leaf|Dupli|69
+    100142: 3x1 Wall|Leaf|Dupli|70
+    100144: 3x1 Wall|Leaf|Dupli|71
+    100146: 3x1 Wall|Leaf|Dupli|72
+    100148: 3x1 Wall|Leaf|Dupli|73
+    100150: 3x1 Wall|Leaf|Dupli|74
+    100152: 3x1 Wall|Leaf|Dupli|75
+    100154: 3x1 Wall|Leaf|Dupli|76
+    100156: 3x1 Wall|Leaf|Dupli|77
+    100158: 3x1 Wall|Leaf|Dupli|78
+    100160: 3x1 Wall|Leaf|Dupli|79
+    100162: 3x1 Wall|Leaf|Dupli|80
+    100164: 3x1 Wall|Leaf|Dupli|81
+    100166: 3x1 Wall|Leaf|Dupli|82
+    100168: 3x1 Wall|Leaf|Dupli|83
+    100170: 3x1 Wall|Leaf|Dupli|84
+    100172: 3x1 Wall|Leaf|Dupli|85
+    100174: 3x1 Wall|Leaf|Dupli|86
+    100176: 3x1 Wall|Leaf|Dupli|87
+    100178: 3x1 Wall|Leaf|Dupli|88
+    100180: 3x1 Wall|Leaf|Dupli|89
+    100182: 3x1 Wall|Leaf|Dupli|90
+    100184: 3x1 Wall|Leaf|Dupli|91
+    100186: 3x1 Wall|Leaf|Dupli|92
+    100188: 3x1 Wall|Leaf|Dupli|93
+    100190: 3x1 Wall|Leaf|Dupli|94
+    100192: 3x1 Wall|Leaf|Dupli|95
+    100194: 3x1 Wall|Leaf|Dupli|96
+    100196: 3x1 Wall|Leaf|Dupli|97
+    100198: 3x1 Wall|Leaf|Dupli|98
+    100200: 3x1 Wall|Leaf|Dupli|99
+    100202: 3x1 Wall|Flower|Dupli|0.1
+    100204: 3x1 Wall|Flower|Dupli|1.1
+    100206: 3x1 Wall|Flower|Dupli|10.1
+    100208: 3x1 Wall|Flower|Dupli|11.1
+    100210: 3x1 Wall|Flower|Dupli|12.1
+    100212: 3x1 Wall|Flower|Dupli|13.1
+    100214: 3x1 Wall|Flower|Dupli|14.1
+    100216: 3x1 Wall|Flower|Dupli|15.1
+    100218: 3x1 Wall|Flower|Dupli|16.1
+    100220: 3x1 Wall|Flower|Dupli|17.1
+    100222: 3x1 Wall|Flower|Dupli|18.1
+    100224: 3x1 Wall|Flower|Dupli|19.1
+    100226: 3x1 Wall|Flower|Dupli|2.1
+    100228: 3x1 Wall|Flower|Dupli|20.1
+    100230: 3x1 Wall|Flower|Dupli|21.1
+    100232: 3x1 Wall|Flower|Dupli|22.1
+    100234: 3x1 Wall|Flower|Dupli|23.1
+    100236: 3x1 Wall|Flower|Dupli|24.1
+    100238: 3x1 Wall|Flower|Dupli|3.1
+    100240: 3x1 Wall|Flower|Dupli|4.1
+    100242: 3x1 Wall|Flower|Dupli|5.1
+    100244: 3x1 Wall|Flower|Dupli|6.1
+    100246: 3x1 Wall|Flower|Dupli|7.1
+    100248: 3x1 Wall|Flower|Dupli|8.1
+    100250: 3x1 Wall|Flower|Dupli|9.1
+    400000: //RootNode
+    400002: 3x1 Wall|Leaf|Dupli|
+    400004: 3x1 Wall|Leaf|Dupli|1
+    400006: 3x1 Wall|Leaf|Dupli|10
+    400008: 3x1 Wall|Leaf|Dupli|11
+    400010: 3x1 Wall|Leaf|Dupli|12
+    400012: 3x1 Wall|Leaf|Dupli|13
+    400014: 3x1 Wall|Leaf|Dupli|14
+    400016: 3x1 Wall|Leaf|Dupli|15
+    400018: 3x1 Wall|Leaf|Dupli|16
+    400020: 3x1 Wall|Leaf|Dupli|17
+    400022: 3x1 Wall|Leaf|Dupli|18
+    400024: 3x1 Wall|Leaf|Dupli|19
+    400026: 3x1 Wall|Leaf|Dupli|2
+    400028: 3x1 Wall|Leaf|Dupli|20
+    400030: 3x1 Wall|Leaf|Dupli|21
+    400032: 3x1 Wall|Leaf|Dupli|22
+    400034: 3x1 Wall|Leaf|Dupli|23
+    400036: 3x1 Wall|Leaf|Dupli|24
+    400038: 3x1 Wall|Leaf|Dupli|25
+    400040: 3x1 Wall|Leaf|Dupli|26
+    400042: 3x1 Wall|Leaf|Dupli|27
+    400044: 3x1 Wall|Leaf|Dupli|28
+    400046: 3x1 Wall|Leaf|Dupli|29
+    400048: 3x1 Wall|Leaf|Dupli|3
+    400050: 3x1 Wall|Leaf|Dupli|30
+    400052: 3x1 Wall|Leaf|Dupli|31
+    400054: 3x1 Wall|Leaf|Dupli|32
+    400056: 3x1 Wall|Leaf|Dupli|33
+    400058: 3x1 Wall|Leaf|Dupli|34
+    400060: 3x1 Wall|Leaf|Dupli|35
+    400062: 3x1 Wall|Leaf|Dupli|36
+    400064: 3x1 Wall|Leaf|Dupli|37
+    400066: 3x1 Wall|Leaf|Dupli|38
+    400068: 3x1 Wall|Leaf|Dupli|39
+    400070: 3x1 Wall|Leaf|Dupli|4
+    400072: 3x1 Wall|Leaf|Dupli|40
+    400074: 3x1 Wall|Leaf|Dupli|41
+    400076: 3x1 Wall|Leaf|Dupli|42
+    400078: 3x1 Wall|Leaf|Dupli|43
+    400080: 3x1 Wall|Leaf|Dupli|44
+    400082: 3x1 Wall|Leaf|Dupli|45
+    400084: 3x1 Wall|Leaf|Dupli|46
+    400086: 3x1 Wall|Leaf|Dupli|47
+    400088: 3x1 Wall|Leaf|Dupli|48
+    400090: 3x1 Wall|Leaf|Dupli|49
+    400092: 3x1 Wall|Leaf|Dupli|5
+    400094: 3x1 Wall|Leaf|Dupli|6
+    400096: 3x1 Wall|Leaf|Dupli|7
+    400098: 3x1 Wall|Leaf|Dupli|8
+    400100: 3x1 Wall|Leaf|Dupli|9
+    400102: 3x1 Wall|Leaf|Dupli|50
+    400104: 3x1 Wall|Leaf|Dupli|51
+    400106: 3x1 Wall|Leaf|Dupli|52
+    400108: 3x1 Wall|Leaf|Dupli|53
+    400110: 3x1 Wall|Leaf|Dupli|54
+    400112: 3x1 Wall|Leaf|Dupli|55
+    400114: 3x1 Wall|Leaf|Dupli|56
+    400116: 3x1 Wall|Leaf|Dupli|57
+    400118: 3x1 Wall|Leaf|Dupli|58
+    400120: 3x1 Wall|Leaf|Dupli|59
+    400122: 3x1 Wall|Leaf|Dupli|60
+    400124: 3x1 Wall|Leaf|Dupli|61
+    400126: 3x1 Wall|Leaf|Dupli|62
+    400128: 3x1 Wall|Leaf|Dupli|63
+    400130: 3x1 Wall|Leaf|Dupli|64
+    400132: 3x1 Wall|Leaf|Dupli|65
+    400134: 3x1 Wall|Leaf|Dupli|66
+    400136: 3x1 Wall|Leaf|Dupli|67
+    400138: 3x1 Wall|Leaf|Dupli|68
+    400140: 3x1 Wall|Leaf|Dupli|69
+    400142: 3x1 Wall|Leaf|Dupli|70
+    400144: 3x1 Wall|Leaf|Dupli|71
+    400146: 3x1 Wall|Leaf|Dupli|72
+    400148: 3x1 Wall|Leaf|Dupli|73
+    400150: 3x1 Wall|Leaf|Dupli|74
+    400152: 3x1 Wall|Leaf|Dupli|75
+    400154: 3x1 Wall|Leaf|Dupli|76
+    400156: 3x1 Wall|Leaf|Dupli|77
+    400158: 3x1 Wall|Leaf|Dupli|78
+    400160: 3x1 Wall|Leaf|Dupli|79
+    400162: 3x1 Wall|Leaf|Dupli|80
+    400164: 3x1 Wall|Leaf|Dupli|81
+    400166: 3x1 Wall|Leaf|Dupli|82
+    400168: 3x1 Wall|Leaf|Dupli|83
+    400170: 3x1 Wall|Leaf|Dupli|84
+    400172: 3x1 Wall|Leaf|Dupli|85
+    400174: 3x1 Wall|Leaf|Dupli|86
+    400176: 3x1 Wall|Leaf|Dupli|87
+    400178: 3x1 Wall|Leaf|Dupli|88
+    400180: 3x1 Wall|Leaf|Dupli|89
+    400182: 3x1 Wall|Leaf|Dupli|90
+    400184: 3x1 Wall|Leaf|Dupli|91
+    400186: 3x1 Wall|Leaf|Dupli|92
+    400188: 3x1 Wall|Leaf|Dupli|93
+    400190: 3x1 Wall|Leaf|Dupli|94
+    400192: 3x1 Wall|Leaf|Dupli|95
+    400194: 3x1 Wall|Leaf|Dupli|96
+    400196: 3x1 Wall|Leaf|Dupli|97
+    400198: 3x1 Wall|Leaf|Dupli|98
+    400200: 3x1 Wall|Leaf|Dupli|99
+    400202: 3x1 Wall|Flower|Dupli|0.1
+    400204: 3x1 Wall|Flower|Dupli|1.1
+    400206: 3x1 Wall|Flower|Dupli|10.1
+    400208: 3x1 Wall|Flower|Dupli|11.1
+    400210: 3x1 Wall|Flower|Dupli|12.1
+    400212: 3x1 Wall|Flower|Dupli|13.1
+    400214: 3x1 Wall|Flower|Dupli|14.1
+    400216: 3x1 Wall|Flower|Dupli|15.1
+    400218: 3x1 Wall|Flower|Dupli|16.1
+    400220: 3x1 Wall|Flower|Dupli|17.1
+    400222: 3x1 Wall|Flower|Dupli|18.1
+    400224: 3x1 Wall|Flower|Dupli|19.1
+    400226: 3x1 Wall|Flower|Dupli|2.1
+    400228: 3x1 Wall|Flower|Dupli|20.1
+    400230: 3x1 Wall|Flower|Dupli|21.1
+    400232: 3x1 Wall|Flower|Dupli|22.1
+    400234: 3x1 Wall|Flower|Dupli|23.1
+    400236: 3x1 Wall|Flower|Dupli|24.1
+    400238: 3x1 Wall|Flower|Dupli|3.1
+    400240: 3x1 Wall|Flower|Dupli|4.1
+    400242: 3x1 Wall|Flower|Dupli|5.1
+    400244: 3x1 Wall|Flower|Dupli|6.1
+    400246: 3x1 Wall|Flower|Dupli|7.1
+    400248: 3x1 Wall|Flower|Dupli|8.1
+    400250: 3x1 Wall|Flower|Dupli|9.1
+    2300000: //RootNode
+    2300002: 3x1 Wall|Leaf|Dupli|
+    2300004: 3x1 Wall|Leaf|Dupli|1
+    2300006: 3x1 Wall|Leaf|Dupli|10
+    2300008: 3x1 Wall|Leaf|Dupli|11
+    2300010: 3x1 Wall|Leaf|Dupli|12
+    2300012: 3x1 Wall|Leaf|Dupli|13
+    2300014: 3x1 Wall|Leaf|Dupli|14
+    2300016: 3x1 Wall|Leaf|Dupli|15
+    2300018: 3x1 Wall|Leaf|Dupli|16
+    2300020: 3x1 Wall|Leaf|Dupli|17
+    2300022: 3x1 Wall|Leaf|Dupli|18
+    2300024: 3x1 Wall|Leaf|Dupli|19
+    2300026: 3x1 Wall|Leaf|Dupli|2
+    2300028: 3x1 Wall|Leaf|Dupli|20
+    2300030: 3x1 Wall|Leaf|Dupli|21
+    2300032: 3x1 Wall|Leaf|Dupli|22
+    2300034: 3x1 Wall|Leaf|Dupli|23
+    2300036: 3x1 Wall|Leaf|Dupli|24
+    2300038: 3x1 Wall|Leaf|Dupli|25
+    2300040: 3x1 Wall|Leaf|Dupli|26
+    2300042: 3x1 Wall|Leaf|Dupli|27
+    2300044: 3x1 Wall|Leaf|Dupli|28
+    2300046: 3x1 Wall|Leaf|Dupli|29
+    2300048: 3x1 Wall|Leaf|Dupli|3
+    2300050: 3x1 Wall|Leaf|Dupli|30
+    2300052: 3x1 Wall|Leaf|Dupli|31
+    2300054: 3x1 Wall|Leaf|Dupli|32
+    2300056: 3x1 Wall|Leaf|Dupli|33
+    2300058: 3x1 Wall|Leaf|Dupli|34
+    2300060: 3x1 Wall|Leaf|Dupli|35
+    2300062: 3x1 Wall|Leaf|Dupli|36
+    2300064: 3x1 Wall|Leaf|Dupli|37
+    2300066: 3x1 Wall|Leaf|Dupli|38
+    2300068: 3x1 Wall|Leaf|Dupli|39
+    2300070: 3x1 Wall|Leaf|Dupli|4
+    2300072: 3x1 Wall|Leaf|Dupli|40
+    2300074: 3x1 Wall|Leaf|Dupli|41
+    2300076: 3x1 Wall|Leaf|Dupli|42
+    2300078: 3x1 Wall|Leaf|Dupli|43
+    2300080: 3x1 Wall|Leaf|Dupli|44
+    2300082: 3x1 Wall|Leaf|Dupli|45
+    2300084: 3x1 Wall|Leaf|Dupli|46
+    2300086: 3x1 Wall|Leaf|Dupli|47
+    2300088: 3x1 Wall|Leaf|Dupli|48
+    2300090: 3x1 Wall|Leaf|Dupli|49
+    2300092: 3x1 Wall|Leaf|Dupli|5
+    2300094: 3x1 Wall|Leaf|Dupli|6
+    2300096: 3x1 Wall|Leaf|Dupli|7
+    2300098: 3x1 Wall|Leaf|Dupli|8
+    2300100: 3x1 Wall|Leaf|Dupli|9
+    2300102: 3x1 Wall|Leaf|Dupli|50
+    2300104: 3x1 Wall|Leaf|Dupli|51
+    2300106: 3x1 Wall|Leaf|Dupli|52
+    2300108: 3x1 Wall|Leaf|Dupli|53
+    2300110: 3x1 Wall|Leaf|Dupli|54
+    2300112: 3x1 Wall|Leaf|Dupli|55
+    2300114: 3x1 Wall|Leaf|Dupli|56
+    2300116: 3x1 Wall|Leaf|Dupli|57
+    2300118: 3x1 Wall|Leaf|Dupli|58
+    2300120: 3x1 Wall|Leaf|Dupli|59
+    2300122: 3x1 Wall|Leaf|Dupli|60
+    2300124: 3x1 Wall|Leaf|Dupli|61
+    2300126: 3x1 Wall|Leaf|Dupli|62
+    2300128: 3x1 Wall|Leaf|Dupli|63
+    2300130: 3x1 Wall|Leaf|Dupli|64
+    2300132: 3x1 Wall|Leaf|Dupli|65
+    2300134: 3x1 Wall|Leaf|Dupli|66
+    2300136: 3x1 Wall|Leaf|Dupli|67
+    2300138: 3x1 Wall|Leaf|Dupli|68
+    2300140: 3x1 Wall|Leaf|Dupli|69
+    2300142: 3x1 Wall|Leaf|Dupli|70
+    2300144: 3x1 Wall|Leaf|Dupli|71
+    2300146: 3x1 Wall|Leaf|Dupli|72
+    2300148: 3x1 Wall|Leaf|Dupli|73
+    2300150: 3x1 Wall|Leaf|Dupli|74
+    2300152: 3x1 Wall|Leaf|Dupli|75
+    2300154: 3x1 Wall|Leaf|Dupli|76
+    2300156: 3x1 Wall|Leaf|Dupli|77
+    2300158: 3x1 Wall|Leaf|Dupli|78
+    2300160: 3x1 Wall|Leaf|Dupli|79
+    2300162: 3x1 Wall|Leaf|Dupli|80
+    2300164: 3x1 Wall|Leaf|Dupli|81
+    2300166: 3x1 Wall|Leaf|Dupli|82
+    2300168: 3x1 Wall|Leaf|Dupli|83
+    2300170: 3x1 Wall|Leaf|Dupli|84
+    2300172: 3x1 Wall|Leaf|Dupli|85
+    2300174: 3x1 Wall|Leaf|Dupli|86
+    2300176: 3x1 Wall|Leaf|Dupli|87
+    2300178: 3x1 Wall|Leaf|Dupli|88
+    2300180: 3x1 Wall|Leaf|Dupli|89
+    2300182: 3x1 Wall|Leaf|Dupli|90
+    2300184: 3x1 Wall|Leaf|Dupli|91
+    2300186: 3x1 Wall|Leaf|Dupli|92
+    2300188: 3x1 Wall|Leaf|Dupli|93
+    2300190: 3x1 Wall|Leaf|Dupli|94
+    2300192: 3x1 Wall|Leaf|Dupli|95
+    2300194: 3x1 Wall|Leaf|Dupli|96
+    2300196: 3x1 Wall|Leaf|Dupli|97
+    2300198: 3x1 Wall|Leaf|Dupli|98
+    2300200: 3x1 Wall|Leaf|Dupli|99
+    2300202: 3x1 Wall|Flower|Dupli|0.1
+    2300204: 3x1 Wall|Flower|Dupli|1.1
+    2300206: 3x1 Wall|Flower|Dupli|10.1
+    2300208: 3x1 Wall|Flower|Dupli|11.1
+    2300210: 3x1 Wall|Flower|Dupli|12.1
+    2300212: 3x1 Wall|Flower|Dupli|13.1
+    2300214: 3x1 Wall|Flower|Dupli|14.1
+    2300216: 3x1 Wall|Flower|Dupli|15.1
+    2300218: 3x1 Wall|Flower|Dupli|16.1
+    2300220: 3x1 Wall|Flower|Dupli|17.1
+    2300222: 3x1 Wall|Flower|Dupli|18.1
+    2300224: 3x1 Wall|Flower|Dupli|19.1
+    2300226: 3x1 Wall|Flower|Dupli|2.1
+    2300228: 3x1 Wall|Flower|Dupli|20.1
+    2300230: 3x1 Wall|Flower|Dupli|21.1
+    2300232: 3x1 Wall|Flower|Dupli|22.1
+    2300234: 3x1 Wall|Flower|Dupli|23.1
+    2300236: 3x1 Wall|Flower|Dupli|24.1
+    2300238: 3x1 Wall|Flower|Dupli|3.1
+    2300240: 3x1 Wall|Flower|Dupli|4.1
+    2300242: 3x1 Wall|Flower|Dupli|5.1
+    2300244: 3x1 Wall|Flower|Dupli|6.1
+    2300246: 3x1 Wall|Flower|Dupli|7.1
+    2300248: 3x1 Wall|Flower|Dupli|8.1
+    2300250: 3x1 Wall|Flower|Dupli|9.1
+    3300000: //RootNode
+    3300002: 3x1 Wall|Leaf|Dupli|
+    3300004: 3x1 Wall|Leaf|Dupli|1
+    3300006: 3x1 Wall|Leaf|Dupli|10
+    3300008: 3x1 Wall|Leaf|Dupli|11
+    3300010: 3x1 Wall|Leaf|Dupli|12
+    3300012: 3x1 Wall|Leaf|Dupli|13
+    3300014: 3x1 Wall|Leaf|Dupli|14
+    3300016: 3x1 Wall|Leaf|Dupli|15
+    3300018: 3x1 Wall|Leaf|Dupli|16
+    3300020: 3x1 Wall|Leaf|Dupli|17
+    3300022: 3x1 Wall|Leaf|Dupli|18
+    3300024: 3x1 Wall|Leaf|Dupli|19
+    3300026: 3x1 Wall|Leaf|Dupli|2
+    3300028: 3x1 Wall|Leaf|Dupli|20
+    3300030: 3x1 Wall|Leaf|Dupli|21
+    3300032: 3x1 Wall|Leaf|Dupli|22
+    3300034: 3x1 Wall|Leaf|Dupli|23
+    3300036: 3x1 Wall|Leaf|Dupli|24
+    3300038: 3x1 Wall|Leaf|Dupli|25
+    3300040: 3x1 Wall|Leaf|Dupli|26
+    3300042: 3x1 Wall|Leaf|Dupli|27
+    3300044: 3x1 Wall|Leaf|Dupli|28
+    3300046: 3x1 Wall|Leaf|Dupli|29
+    3300048: 3x1 Wall|Leaf|Dupli|3
+    3300050: 3x1 Wall|Leaf|Dupli|30
+    3300052: 3x1 Wall|Leaf|Dupli|31
+    3300054: 3x1 Wall|Leaf|Dupli|32
+    3300056: 3x1 Wall|Leaf|Dupli|33
+    3300058: 3x1 Wall|Leaf|Dupli|34
+    3300060: 3x1 Wall|Leaf|Dupli|35
+    3300062: 3x1 Wall|Leaf|Dupli|36
+    3300064: 3x1 Wall|Leaf|Dupli|37
+    3300066: 3x1 Wall|Leaf|Dupli|38
+    3300068: 3x1 Wall|Leaf|Dupli|39
+    3300070: 3x1 Wall|Leaf|Dupli|4
+    3300072: 3x1 Wall|Leaf|Dupli|40
+    3300074: 3x1 Wall|Leaf|Dupli|41
+    3300076: 3x1 Wall|Leaf|Dupli|42
+    3300078: 3x1 Wall|Leaf|Dupli|43
+    3300080: 3x1 Wall|Leaf|Dupli|44
+    3300082: 3x1 Wall|Leaf|Dupli|45
+    3300084: 3x1 Wall|Leaf|Dupli|46
+    3300086: 3x1 Wall|Leaf|Dupli|47
+    3300088: 3x1 Wall|Leaf|Dupli|48
+    3300090: 3x1 Wall|Leaf|Dupli|49
+    3300092: 3x1 Wall|Leaf|Dupli|5
+    3300094: 3x1 Wall|Leaf|Dupli|6
+    3300096: 3x1 Wall|Leaf|Dupli|7
+    3300098: 3x1 Wall|Leaf|Dupli|8
+    3300100: 3x1 Wall|Leaf|Dupli|9
+    3300102: 3x1 Wall|Leaf|Dupli|50
+    3300104: 3x1 Wall|Leaf|Dupli|51
+    3300106: 3x1 Wall|Leaf|Dupli|52
+    3300108: 3x1 Wall|Leaf|Dupli|53
+    3300110: 3x1 Wall|Leaf|Dupli|54
+    3300112: 3x1 Wall|Leaf|Dupli|55
+    3300114: 3x1 Wall|Leaf|Dupli|56
+    3300116: 3x1 Wall|Leaf|Dupli|57
+    3300118: 3x1 Wall|Leaf|Dupli|58
+    3300120: 3x1 Wall|Leaf|Dupli|59
+    3300122: 3x1 Wall|Leaf|Dupli|60
+    3300124: 3x1 Wall|Leaf|Dupli|61
+    3300126: 3x1 Wall|Leaf|Dupli|62
+    3300128: 3x1 Wall|Leaf|Dupli|63
+    3300130: 3x1 Wall|Leaf|Dupli|64
+    3300132: 3x1 Wall|Leaf|Dupli|65
+    3300134: 3x1 Wall|Leaf|Dupli|66
+    3300136: 3x1 Wall|Leaf|Dupli|67
+    3300138: 3x1 Wall|Leaf|Dupli|68
+    3300140: 3x1 Wall|Leaf|Dupli|69
+    3300142: 3x1 Wall|Leaf|Dupli|70
+    3300144: 3x1 Wall|Leaf|Dupli|71
+    3300146: 3x1 Wall|Leaf|Dupli|72
+    3300148: 3x1 Wall|Leaf|Dupli|73
+    3300150: 3x1 Wall|Leaf|Dupli|74
+    3300152: 3x1 Wall|Leaf|Dupli|75
+    3300154: 3x1 Wall|Leaf|Dupli|76
+    3300156: 3x1 Wall|Leaf|Dupli|77
+    3300158: 3x1 Wall|Leaf|Dupli|78
+    3300160: 3x1 Wall|Leaf|Dupli|79
+    3300162: 3x1 Wall|Leaf|Dupli|80
+    3300164: 3x1 Wall|Leaf|Dupli|81
+    3300166: 3x1 Wall|Leaf|Dupli|82
+    3300168: 3x1 Wall|Leaf|Dupli|83
+    3300170: 3x1 Wall|Leaf|Dupli|84
+    3300172: 3x1 Wall|Leaf|Dupli|85
+    3300174: 3x1 Wall|Leaf|Dupli|86
+    3300176: 3x1 Wall|Leaf|Dupli|87
+    3300178: 3x1 Wall|Leaf|Dupli|88
+    3300180: 3x1 Wall|Leaf|Dupli|89
+    3300182: 3x1 Wall|Leaf|Dupli|90
+    3300184: 3x1 Wall|Leaf|Dupli|91
+    3300186: 3x1 Wall|Leaf|Dupli|92
+    3300188: 3x1 Wall|Leaf|Dupli|93
+    3300190: 3x1 Wall|Leaf|Dupli|94
+    3300192: 3x1 Wall|Leaf|Dupli|95
+    3300194: 3x1 Wall|Leaf|Dupli|96
+    3300196: 3x1 Wall|Leaf|Dupli|97
+    3300198: 3x1 Wall|Leaf|Dupli|98
+    3300200: 3x1 Wall|Leaf|Dupli|99
+    3300202: 3x1 Wall|Flower|Dupli|0.1
+    3300204: 3x1 Wall|Flower|Dupli|1.1
+    3300206: 3x1 Wall|Flower|Dupli|10.1
+    3300208: 3x1 Wall|Flower|Dupli|11.1
+    3300210: 3x1 Wall|Flower|Dupli|12.1
+    3300212: 3x1 Wall|Flower|Dupli|13.1
+    3300214: 3x1 Wall|Flower|Dupli|14.1
+    3300216: 3x1 Wall|Flower|Dupli|15.1
+    3300218: 3x1 Wall|Flower|Dupli|16.1
+    3300220: 3x1 Wall|Flower|Dupli|17.1
+    3300222: 3x1 Wall|Flower|Dupli|18.1
+    3300224: 3x1 Wall|Flower|Dupli|19.1
+    3300226: 3x1 Wall|Flower|Dupli|2.1
+    3300228: 3x1 Wall|Flower|Dupli|20.1
+    3300230: 3x1 Wall|Flower|Dupli|21.1
+    3300232: 3x1 Wall|Flower|Dupli|22.1
+    3300234: 3x1 Wall|Flower|Dupli|23.1
+    3300236: 3x1 Wall|Flower|Dupli|24.1
+    3300238: 3x1 Wall|Flower|Dupli|3.1
+    3300240: 3x1 Wall|Flower|Dupli|4.1
+    3300242: 3x1 Wall|Flower|Dupli|5.1
+    3300244: 3x1 Wall|Flower|Dupli|6.1
+    3300246: 3x1 Wall|Flower|Dupli|7.1
+    3300248: 3x1 Wall|Flower|Dupli|8.1
+    3300250: 3x1 Wall|Flower|Dupli|9.1
+    4300000: 3x1 Wall
+    4300002: 3x1 Wall|Leaf|Dupli|
+    4300004: 3x1 Wall|Flower|Dupli|0.1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flower
+    second: {fileID: 2100000, guid: b34ad1b09fbc664479badd2ad924cd0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leaf
+    second: {fileID: 2100000, guid: 5002ddb7e2a524646a8f36c5e30e73f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leaf.001
+    second: {fileID: 2100000, guid: dbd2a1aa25ae90047b184c9a0de9c85e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sandstone
+    second: {fileID: 2100000, guid: 0506cd5a2657a6b4fb6ff953207b4d48, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

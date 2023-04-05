@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 685fba808c2bf6a4bbe4ea502b808eb6
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1x1 Rock
+    100002: //RootNode
+    100004: 3x1 Column
+    100006: 3x1 Wall
+    100008: Boulder
+    100010: Flower
+    100012: Leaf
+    100014: PushBlock
+    100016: PushBlock.001
+    100018: PushBlock.002
+    400000: 1x1 Rock
+    400002: //RootNode
+    400004: 3x1 Column
+    400006: 3x1 Wall
+    400008: Boulder
+    400010: Flower
+    400012: Leaf
+    400014: PushBlock
+    400016: PushBlock.001
+    400018: PushBlock.002
+    2100000: Stone
+    2100002: Sandstone
+    2100004: PushBlock1.001
+    2100006: Sandstone.001
+    2100008: Flower.001
+    2100010: PushBlock1.002
+    2100012: Sandstone.002
+    2100014: Flower.002
+    2100016: Leaf
+    2100018: Leaf.001
+    2100020: Flower
+    2100022: PushBlock1
+    2300000: 1x1 Rock
+    2300002: 3x1 Column
+    2300004: 3x1 Wall
+    2300006: Boulder
+    2300008: Flower
+    2300010: Leaf
+    2300012: PushBlock
+    2300014: PushBlock.001
+    2300016: PushBlock.002
+    3300000: 1x1 Rock
+    3300002: 3x1 Column
+    3300004: 3x1 Wall
+    3300006: Boulder
+    3300008: Flower
+    3300010: Leaf
+    3300012: PushBlock
+    3300014: PushBlock.001
+    3300016: PushBlock.002
+    4300000: 1x1 Rock
+    4300002: Boulder
+    4300004: 3x1 Column
+    4300006: 3x1 Wall
+    4300008: PushBlock.001
+    4300010: PushBlock.002
+    4300012: Leaf
+    4300014: Flower
+    4300016: PushBlock
+    7400000: 1x1 Rock|1x1 RockAction
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
